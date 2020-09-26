@@ -9,5 +9,5 @@ The JSON file should be stored inside your project where your "health.py" file i
 
 We used 3800+ unique valued data for training purpose and have tested 200+ values. 
 
-
+The Application, on the last screen will also help the user to view patients near him/her.
 
